@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning GNU/Linux, Python, GO
 - 👯 I want to contribute any projects.
 
+**Donate**:
+
+<a href="https://qiwi.com/n/OLDTYT" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=QIWI&color=222222&logo=QIWI&logoColor=FF8C00&label=" alt="QIWI Donation" />
 
 **Languages:**  
 
